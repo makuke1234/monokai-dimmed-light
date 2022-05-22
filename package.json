@@ -1,0 +1,21 @@
+{
+    "name": "monokai-dimmed-light",
+    "displayName": "Monokai Dimmed Light",
+    "description": "A light version of built-in theme Monokai Dimmed",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai Dimmed Light",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Dimmed Light-color-theme.json"
+            }
+        ]
+    }
+}
