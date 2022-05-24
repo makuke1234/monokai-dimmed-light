@@ -1,21 +1,44 @@
 {
     "name": "monokai-dimmed-light",
     "displayName": "Monokai Dimmed Light",
-    "description": "A light version of built-in theme Monokai Dimmed",
-    "version": "0.0.1",
-    "engines": {
+    "description": "A light version of the built-in theme Monokai Dimmed",
+    "version": "1.0.0",
+	"publisher": "makuke1234",
+    "engines":
+	{
         "vscode": "^1.67.0"
     },
-    "categories": [
+    "categories":
+	[
         "Themes"
     ],
-    "contributes": {
-        "themes": [
+	"keywords":
+	[
+		"theme",
+		"monokai",
+		"dimmed",
+		"light",
+		"monokai theme",
+		"monokai dimmed",
+		"dimmed light",
+		"monokai dimmed light"
+	],
+	"contributes":
+	{
+        "themes":
+		[
             {
                 "label": "Monokai Dimmed Light",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/Monokai Dimmed Light-color-theme.json"
             }
         ]
-    }
+    },
+	"license": "MIT License",
+	"repository":
+	{
+		"type": "git",
+		"directory": "https://github.com/makuke1234/monokai-dimmed-light.git"
+	},
+	"homepage": "https://github.com/makuke1234/monokai-dimmed-light/blob/master/README.md"
 }

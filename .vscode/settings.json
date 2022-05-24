@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.h": "c",
+		"*.h2o2": "h2o2",
+		"algorithm": "cpp"
+	}
+}
