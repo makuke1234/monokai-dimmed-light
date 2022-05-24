@@ -39,4 +39,9 @@ Here are some screenshots of popular languages with this theme.
 ![JSON Snip 2](https://github.com/makuke1234/monokai-dimmed-light/raw/master/Images/SnipJSON2.PNG)
 
 
+# License
+
+This project is using the MIT License.
+
+
 **Enjoy!**
