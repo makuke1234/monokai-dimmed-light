@@ -2,7 +2,7 @@
     "name": "monokai-dimmed-light",
     "displayName": "Monokai Dimmed Light",
     "description": "A light version of the built-in theme Monokai Dimmed",
-    "version": "1.0.0",
+    "version": "1.0.1",
 	"publisher": "makuke1234",
     "engines":
 	{
@@ -21,7 +21,13 @@
 		"monokai theme",
 		"monokai dimmed",
 		"dimmed light",
-		"monokai dimmed light"
+		"monokai dimmed light",
+		"monokai solarized",
+		"solarized light",
+		"solarized",
+		"solarized monokai",
+		"light monokai",
+		"dimmed monokai light"
 	],
 	"contributes":
 	{

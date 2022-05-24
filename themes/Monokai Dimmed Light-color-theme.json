@@ -21,6 +21,10 @@
 		"tab.hoverBackground": "#6c71c460",
 		"statusBar.background": "#e4dec3",
 		"statusBar.foreground": "#002b36",
+		"statusBar.noFolderBackground": "#1acf9f9d",
+		"statusBar.noFolderForeground": "#002b36",
+		"statusBar.debuggingForeground": "#0dff00",
+		"statusBar.debuggingBackground": "#d26600",
 
 		"editorWidget.background": "#eee8d5",
 		"editorSuggestWidget.selectedBackground": "#2aa198",
